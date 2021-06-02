@@ -1,1 +1,2 @@
 great-samp.dm-proxy.tech:1111=grp
+samp.dopminer.tech:7771=grp
