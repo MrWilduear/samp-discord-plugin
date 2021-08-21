@@ -1,4 +1,4 @@
 great-samp.dm-proxy.tech:1111=grp
 samp.dopminer.tech:7771=grp
-samp.greatroleplay.com:7777=logo
-103.62.48.163:7777=logo
+samp.greatroleplay.com:7777=512x512
+103.62.48.163:7777=512x512
